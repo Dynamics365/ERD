@@ -16,7 +16,7 @@
 
 ## => Site Settings
 ##############################
-text_skin: forest 
+text_skin: dark 
 # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-bright 
 # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
@@ -221,10 +221,10 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
+      license: false
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 
