@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Number sequence farmework overview in Dynamics AX 2012
 description: How to create number sequence in Dynamics AX 2012 with difference scenarios
 author: Max Nguyen

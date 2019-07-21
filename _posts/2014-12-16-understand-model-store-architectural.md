@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Understand model store architectural in AX 2012
 description: Understand model store architectural in AX 2012
 author: Max Nguyen

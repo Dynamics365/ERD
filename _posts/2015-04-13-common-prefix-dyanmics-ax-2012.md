@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Common prefies Dyanmics AX 2012
 description: Common prefies Dyanmics AX 2012
 author: Max Nguyen

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Execute Stored Procedure from X++ code
 description: Execute Stored Procedure from X++ code
 author: Max Nguyen

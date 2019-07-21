@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: X++ Performance tips
 description: X++ Performance tips
 author: Max Nguyen

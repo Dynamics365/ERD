@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Simple summary Keys are in Dynamics AX
 description: Simple summary Keys are in Dynamics AX
 author: Max Nguyen

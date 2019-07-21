@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Start programming
 description: Start programming
 author: Max Nguyen

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to deploy all the reports in AX2012 by using Management Shell
 description: How to deploy all the reports in AX2012 by using Management Shell
 author: Max Nguyen

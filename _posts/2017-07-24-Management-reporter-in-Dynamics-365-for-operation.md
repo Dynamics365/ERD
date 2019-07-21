@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2017-07-24 01:33:44+00:00
-layout: post
+
 slug: Management-reporter-in-Dynamics-365-for-operation
 title: Management reporter in new AX, Dynamics 365 For Operation
 categories:

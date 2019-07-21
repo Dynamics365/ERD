@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to create HTTP adapter port
 description: How to create HTTP adapter port
 author: Max Nguyen

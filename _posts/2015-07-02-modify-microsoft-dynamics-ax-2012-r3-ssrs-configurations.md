@@ -1,6 +1,6 @@
 ---
 title: Modify Microsoft Dynamics AX 2012 R3 SSRS configurations using PowerShell
-layout: post
+
 date: 2015-07-02
 author: Max Nguyen
 categories: [ax2012, trick, ssrs]

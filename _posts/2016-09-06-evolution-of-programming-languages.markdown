@@ -1,6 +1,6 @@
 ---
 title: Evolution of programming languages
-layout: post
+
 date: 2016-09-06 18:47:00 +09:00
 author: Max Nguyen
 categories: [general]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Overview delete action in Dyanmics AX 2012
 description: Overview delete action in Dyanmics AX 2012
 author: Max Nguyen

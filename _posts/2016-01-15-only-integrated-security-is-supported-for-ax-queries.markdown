@@ -1,6 +1,6 @@
 ---
 title: "Only integrated security is supported for AX queries"
-layout: post
+
 date: 2016-01-17 16:22:50.000000000 +07:00
 author: Max Nguyen
 categories: [services, ssrs, ax2012, trick, problem]

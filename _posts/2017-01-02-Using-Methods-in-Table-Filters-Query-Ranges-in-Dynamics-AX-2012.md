@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Using Methods in Table Filters & Query Ranges in Dynamics AX 2012
 description: Using Methods in Table Filters & Query Ranges in Dynamics AX 2012
 author: Max Nguyen

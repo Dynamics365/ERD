@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Web Services on IIS - Exception has been thrown by the target of an invocation
 description: Web Services on IIS - Exception has been thrown by the target of an invocation
 author: Max Nguyen

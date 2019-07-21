@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Infographic Tiêu tiền khôn ngoan theo quy tắc 6 chiếc lọ
 description: Infographic Tiêu tiền khôn ngoan theo quy tắc 6 chiếc lọ
 author: Max Nguyen

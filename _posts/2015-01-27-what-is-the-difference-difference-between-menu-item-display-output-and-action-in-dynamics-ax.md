@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: What is the difference difference between menu item Display, Output and Action
 description: What is the difference difference between menu item Display, Output and Action
 author: Max Nguyen

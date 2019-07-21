@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+
 title: AIF Custom response value in Dynamics AX 2012 R3
 description: AIF Custom response value in Dynamics AX 2012 R3
 author: Max Nguyen

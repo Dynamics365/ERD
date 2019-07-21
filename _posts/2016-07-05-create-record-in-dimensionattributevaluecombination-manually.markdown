@@ -1,6 +1,6 @@
 ---
 title: Create record in DimensionAttributeValueCombination table manually.
-layout: post
+
 date: 2016-07-05 18:47:00 +09:00
 author: Max Nguyen
 categories: [ax2012, trick]

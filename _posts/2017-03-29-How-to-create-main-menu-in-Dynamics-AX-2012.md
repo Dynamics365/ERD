@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to create main menu in Dynamics AX 2012
 description: How to create main menu in Dynamics AX 2012
 author: Max Nguyen

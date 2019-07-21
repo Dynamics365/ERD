@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: How to block vendor and send email for notification.
 description: Using batch to find and block vendor base on last transaction condition and notify for them by emails.
 author: Max Nguyen

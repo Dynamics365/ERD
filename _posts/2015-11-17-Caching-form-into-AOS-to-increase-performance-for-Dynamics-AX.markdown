@@ -1,6 +1,6 @@
 ---
 title: Caching form into AOS to increase performance for Dynamics AX
-layout: post
+
 date: 2015-11-17 03:13:45.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012, sourcecontrol]

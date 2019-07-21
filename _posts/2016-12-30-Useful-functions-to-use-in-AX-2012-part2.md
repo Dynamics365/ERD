@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Useful functions to use in AX 2012 part 2
 description: Useful functions to use in AX 2012 part 2
 author: Max Nguyen

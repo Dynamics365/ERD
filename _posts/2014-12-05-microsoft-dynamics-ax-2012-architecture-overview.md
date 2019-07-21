@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Architecture overview Microsoft Dynamics AX 2012
 description: Architecture overview Microsoft Dynamics AX 2012
 author: Max Nguyen

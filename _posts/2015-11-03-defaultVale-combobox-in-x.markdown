@@ -1,6 +1,6 @@
 ---
 title: DefaultValue ComboBox in Dynamics AX with X++
-layout: post
+
 date: 2015-11-13 06:57:46.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012, trick]

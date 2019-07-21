@@ -1,6 +1,6 @@
 ---
 title: How to use operator "or" in QueryBuildRange
-layout: post
+
 date: 2015-12-30 04:23:09.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012]

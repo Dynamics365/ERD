@@ -1,6 +1,6 @@
 ---
 title: How to install two instances SSRS on one server
-layout: post
+
 date: 2015-12-16 09:01:11.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012, ssrs]

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2017-04-11 00:00:00+00:00
-layout: post
+
 slug: Basic-OOP-Concept
 title: Basic C# OOP Concept
 categories:

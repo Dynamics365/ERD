@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Recalculate InventSum in Dynamics AX
 description: Recalculate InventSum in Dynamics AX
 author: Max Nguyen

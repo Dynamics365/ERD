@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+
 title: CRUD Items, products, products master dimension, variants using AIF in Dynamics AX 2012 R3
 description: CRUD Items, products, products master dimension, variants using AIF in Dynamics AX 2012 R3
 author: Max Nguyen

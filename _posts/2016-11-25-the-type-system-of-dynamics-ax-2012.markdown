@@ -1,6 +1,6 @@
 ---
 title: The Type system of Dynamics AX 2012
-layout: post
+
 date: 2016-11-24 08:22:39.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012]

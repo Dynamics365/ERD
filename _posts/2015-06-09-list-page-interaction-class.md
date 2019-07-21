@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: List Page Interaction Class
 description: List Page Interaction Class
 author: Max Nguyen

@@ -1,6 +1,6 @@
 ---
 title: Rename a Database in SQL Server
-layout: post
+
 date: 2015-11-03 03:45:13.000000000 +07:00
 author: Max Nguyen
 categories: [general, sql]

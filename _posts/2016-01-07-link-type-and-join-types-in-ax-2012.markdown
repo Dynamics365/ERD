@@ -1,6 +1,6 @@
 ---
 title: Link Type and Join Types in ax 2012
-layout: post
+
 date: 2016-01-07 04:39:12.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012]

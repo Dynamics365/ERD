@@ -1,6 +1,6 @@
 ---
 title: Copy data between Microsoft Dynamics AX companies using DIXF In AX 2012 R3 
-layout: post
+
 date: 2016-11-17 09:11:11.000000000 +09:00
 author: Max Nguyen
 categories: [ax2012, ssrs]

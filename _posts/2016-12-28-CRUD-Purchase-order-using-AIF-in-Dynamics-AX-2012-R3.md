@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: CRUD Purchase order using AIF in Dynamics AX 2012 R3
 description: CRUD Purchase order using AIF in Dynamics AX 2012 R3
 author: Max Nguyen

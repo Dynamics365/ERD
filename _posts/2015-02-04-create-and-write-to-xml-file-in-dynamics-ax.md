@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Create and write to XML file in Dynamics AX
 description: Create and write to XML file in Dynamics AX
 author: Max Nguyen

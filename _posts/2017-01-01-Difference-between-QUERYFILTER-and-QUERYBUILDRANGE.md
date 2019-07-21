@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+
 title: Difference between QUERYFILTER and QUERYBUILDRANGE
 description: Difference between QUERYFILTER and QUERYBUILDRANGE
 author: Duy Dang

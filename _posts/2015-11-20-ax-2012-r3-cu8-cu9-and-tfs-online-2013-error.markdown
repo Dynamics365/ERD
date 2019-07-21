@@ -1,6 +1,6 @@
 ---
 title: AX 2012 R3 CU8 CU9 and TFS Online 2013 Error
-layout: post
+
 date: 2015-11-20 13:52:40.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012, sourcecontrol]

@@ -1,6 +1,6 @@
 ---
 title: SSRS Report Server Settings Validation Error- AX 2012 R3 CU9
-layout: post
+
 date: 2016-01-15 16:22:50.000000000 +07:00
 author: Max Nguyen
 categories: [services, ssrs, ax2012, trick, problem]

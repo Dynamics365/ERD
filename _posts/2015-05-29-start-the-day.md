@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Start the day
 description: Start the day
 author: Max Nguyen

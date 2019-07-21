@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+
 title: Insert, update, Delete order line through AIF In AX 2012 R3
 description: Insert, update, Delete order line through AIF In AX 2012 R3
 author: Max Nguyen

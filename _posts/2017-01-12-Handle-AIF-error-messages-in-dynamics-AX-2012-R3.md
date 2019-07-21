@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Handle AIF error messages in dynamics AX 2012 R3
 description: Handle AIF error messages in dynamics AX 2012 R3
 author: Max Nguyen

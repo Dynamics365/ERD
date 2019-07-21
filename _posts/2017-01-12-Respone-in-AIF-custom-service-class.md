@@ -1,5 +1,5 @@
 ---
-layout: dark-post
+
 title: Response in AIF custom service class
 description: Response in AIF custom service class
 author: Max Nguyen

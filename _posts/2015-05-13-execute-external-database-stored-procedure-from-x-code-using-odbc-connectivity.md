@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Execute external database Stored Procedure from X++ code using ODBC connectivity
 description: Execute external database Stored Procedure from X++ code using ODBC connectivity
 author: Max Nguyen

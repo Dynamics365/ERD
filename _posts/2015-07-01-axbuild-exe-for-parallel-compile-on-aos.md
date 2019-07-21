@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: AxBuild.exe for Parallel Compile on AOS
 description: AxBuild.exe for Parallel Compile on AOS
 author: Max Nguyen

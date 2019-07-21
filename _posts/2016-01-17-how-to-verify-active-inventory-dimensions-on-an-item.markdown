@@ -1,6 +1,6 @@
 ---
 title: How to verify active inventory dimensions on an item
-layout: post
+
 date: 2016-01-17 16:22:50.000000000 +07:00
 author: Max Nguyen
 categories: [ax2012]
