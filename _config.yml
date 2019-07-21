@@ -44,7 +44,7 @@ author:
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  facebook  : luannx # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
@@ -52,7 +52,7 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : luannx # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
@@ -208,6 +208,7 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
+  - /docs
   - /node_modules
   - /screenshots
   - /test
