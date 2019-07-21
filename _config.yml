@@ -22,7 +22,7 @@ highlight_theme: tomorrow-night-bright
 # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://nuxulu.com/nats/ 
 # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl :https://nuxulu.com/nats/ # does not include hostname
+baseurl : # does not include hostname
 title   : DAX Achive
 description: > # this means to ignore newlines until "Language & timezone"
   Education is not preparation for life, education is life itself.
