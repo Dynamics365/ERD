@@ -18,49 +18,141 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+### Hi There!!
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+A Developer in Dynamics Ax, Dynamics 365 for finance and operations, Azure, PowerApps.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+Here are some of my experience with Dynamics 365 for finance and operations
 
-## Features
+#### Dynamics 365 for finance and operations development skills: 
+  * Familiar with extensibility in Dynamics 365 for finance and operations (Class extensions, method wrapping/replacing and Chain of Command).
+  * Strong X++ coding skills.
+  * Workflow, batch job development.
+  * Office add-ins development for form.
+  * Familiar with SSRS reports, data entity, Aggregate measurement. 
+  * VSTS Azure DevOps configuration for DEV and UAT environment.
+  * Continuous build and deployment configuration for BUILD and UAT environment.
+  * Automation load test practice using Regression tool and Perf SDK.
+  * Expert in debugging in DEV/UAT and using trace parser.
+  * Project, model, package management.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+#### Dynamics 365 for finance and operations provisioning and operation skills:
+  * Ability to deploy On-premises version (have successfully deployed two on-premises environments).
+  * Setup and provision Cloud-hosted environment include DEV and BUILD/TEST environment; implementation environment includes DEV, UAT sandbox, Production; VHD local development environment.
+  * LCS configuration with Azure subscription, mapping BPM with Azure DevOps.
+  * Environment maintenance and SQL performance monitoring within LCS.
+  * Apply packages, hotfixes, upgrading.
+  * Refresh data From PROD to UAT/DEV, moving data across the environments.
 
-## Skins
+#### Dynamics 365 for finance and operations data management and integration skills:
+  * Building and using Aggregate Measurements, data entity, and Composite data entity development.
+  * Using data management framework to import and export data.
+  * Ability to use Bring your own database feature.
+  * Implement data integration in many scenarios using OData, Batch data API, Recurring integrations, Data package API, consume external web services, excel integration.
+  * Data integration by using Common Data Service (PowerApps).
+  * Ability to use Postman for integration testing.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+#### Dynamics 365 for finance and operations reporting skills:
+  * Building and extending Aggregate measurement for PowerBI report.
+  * Configure Power BI integration for workspaces.
+  * Familiar with Financial report, generate or reset data mart.
+  * Power BI integration with Entity store
+  * Configure BYOD to connect with another reporting system.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+#### Dynamics 365 for finance and operations troubleshooting skills:
+  * Reading Trace parser for X++ logic error or data inconsistency.
+  * Using LCS to find expensive SQL queries for application hanging or slow
+  * Ability to use Fiddler to troubleshoot authentication error client interaction.
+  * Ability to use ProcDump, ListDLLs, Process Monitor tools.
+  * PowerShell scripts debugging for deployment errors.
+ 
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+#### If there is a customization, then should follow these things
+  * Minimizing the footprint of changes (I know how painful is when merging code from different partners or upgrade or installing hot-fix).
+  * Where to make the change (always at the highest level and in this order: class, table, form data source field/method, form control).
+  * Using field groups (The reason this reduces footprint).
+  * Upgrades and system maintainability.
+  * Design for a service-oriented architecture.
+  * Design for code reuse.
+  * Apply Dynamics AX design patterns.
+  * Apply Best practice.
+	
+#### The functions which I've been working with
 
-### Highlight Theme
+  * **General Ledger**
+	* Financial Dimension
+	* Chart of accounts
+	* Financial statements – Balance sheet, Income statement
+	* Currency and exchange
+	* Journal and Journal posting framework
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+  * **Trade and Logistics**
+	* Item creation
+	* Sales process
+	* Purchase process
+	* Transfer order
+	* Supply chain management
+	
+  * **Production**
+	* BOM
+	* Routes and operations
+	* Purchase process
+	* Transfer order
+	
+  * **Retails**
+	* Installation and configuration Retails POS
+	* The Async Service
+	* Real-time Service
+	* Certificate Management
+	
+  * **Warehouse management**
+	* Workflows
+	* Picking and packing
+	* Mobile devices
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Here are [my badges](https://www.youracclaim.com/users/nguyen-max). Thank you for reading.
+
+:)
+
+{% include author-links.html %}
+	
+## Contact
+
+You can send me an email at: _**luan52@outlook.com**_ or use the form bellow:
+
+<form action="http://formspree.io/luan52@outlook.com" method="post">
+	<label for="name">Name</label>    
+	<input type="text" id="name" name="name" class="full-width"><br>
+	<label for="email">Email Address</label>
+	<input type="email" id="email" name="_replyto" class="full-width"><br>
+	<label for="message">Message</label>
+	<textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+	<div markdown="0"><input type="submit" value="Send" class="btn btn-success" /></div>
+</form>
+
+
+
+<link rel='stylesheet' type='text/css' href='{{site.url}}/assets/css/contact.css' />
+
+
+<script>
+	jQuery(document).ready(function($){
+	if( $('.floating-labels').length > 0 ) floatLabels();
+
+	function floatLabels() {
+		var inputFields = $('.floating-labels .cd-label').next();
+		inputFields.each(function(){
+			var singleInput = $(this);
+			//check if user is filling one of the form fields
+			checkVal(singleInput);
+			singleInput.on('change keyup', function(){
+				checkVal(singleInput);
+			});
+		});
+	}
+
+	function checkVal(inputField) {
+		( inputField.val() == '' ) ? inputField.prev('.cd-label').removeClass('float') : inputField.prev('.cd-label').addClass('float');
+	}
+	});
+</script>
