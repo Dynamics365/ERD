@@ -14,7 +14,7 @@ Main requirements is Using batch to find and block vendor base on last transacti
 
 For set up email, we need Go to AX `System administrator > Setup > E-mail parameters`
 
-![](https://dynamics365.github.io/assets/Email-parameters.png)
+![]({{site.url}}/assets/imagesposts/Email-parameters.png)
 
 ### Vendor emails
 

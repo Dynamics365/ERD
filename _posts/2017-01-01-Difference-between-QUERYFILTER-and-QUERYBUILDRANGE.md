@@ -18,11 +18,11 @@ I have two table :
 
 Table `DuyDang_ParentTable` which have 1 columns : `ID`.
 
-![Parent_Table](https://dynamics365.github.io/assets/Parent_Table.jpg)
+![Parent_Table]({{site.url}}/assets/imagesposts/Parent_Table.jpg)
 
 Table `DuyDang_ChildTable` which have 3 columns : `ID`, `ParentID`, `Qty`.
 
-![Child_Table](https://dynamics365.github.io/assets/Child_Table.jpg)
+![Child_Table]({{site.url}}/assets/imagesposts/Child_Table.jpg)
 
 and they have relation like this : `DuyDang_ParentTable.ID = DuyDang_ChildTable.ParentID`.
 
@@ -74,7 +74,7 @@ static void DuyDang_QueryFilter(Args _args)
 
 and result `info` here:
 
-![Child_Table](https://dynamics365.github.io/assets/Result_Filter.jpg)
+![Child_Table]({{site.url}}/assets/imagesposts/Result_Filter.jpg)
 
 ### Use QueryBuildRange class:
 
@@ -123,7 +123,7 @@ static void DuyDang_QueryFilter(Args _args)
 
 and result `info` here:
 
-![Child_Table](https://dynamics365.github.io/assets/Result_Range.jpg)
+![Child_Table]({{site.url}}/assets/imagesposts/Result_Range.jpg)
 
 
 now you can see the difference between them

@@ -101,7 +101,7 @@ static void WriteXml(Args _args)
 
 The file that is created looks like the one in the following screenshot(only first part of the file is shown):
 
-![](https://dynamics365.github.io/assets/create-and-write-to-xml-file-in-dynamics-ax_1.png)
+![]({{site.url}}/assets/imagesposts/create-and-write-to-xml-file-in-dynamics-ax_1.png)
 
 As you can see, this file is based on a standard XML format with tags and values only. You can, however, use tag attributes as well. To put the values from the table into tag attributes instead of their own tags, simply change the following code snippet in the example above
 
@@ -125,4 +125,4 @@ xmlRecord.setAttribute(dField.name(), value);
 
 The file that is created now looks like the one in the following screenshot: 
 
-![](https://dynamics365.github.io/assets/create-and-write-to-xml-file-in-dynamics-ax_2.png)
+![]({{site.url}}/assets/imagesposts/create-and-write-to-xml-file-in-dynamics-ax_2.png)

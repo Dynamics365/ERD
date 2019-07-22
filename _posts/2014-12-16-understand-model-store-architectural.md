@@ -12,13 +12,13 @@ The model store is the portion of the Microsoft Dynamics AX database where all M
 
 **Layer and model information are integral parts of the store**. The AOS has access to the model store, handles layer-flattening, and provides model data to all the Microsoft Dynamics AX sub-systems, such as form- and report-rendering and X++ code.
 
-![](https://dynamics365.github.io/assets/model_layer_elements.jpg)
+![]({{site.url}}/assets/imagesposts/model_layer_elements.jpg)
 
 Microsoft Dynamics AX contains sixteen layers. Each layer consists of one or more logical parts called models. A system generated model exists for each layer.
 
 For example, the VAR Model is the system generated model for the VAR layer. You can use the system generated models to install and start working with the base Microsoft Dynamics AX system. You can leverage the capabilities of models, and tools and functionality that support the models, during customization of the Microsoft Dynamics AX application.
 
-![](https://dynamics365.github.io/assets/understand-model-store-architectural.jpg)
+![]({{site.url}}/assets/imagesposts/understand-model-store-architectural.jpg)
 
 * The model store is the portion of the Microsoft Dynamics AX database where all Microsoft Dynamics AX application elements are stored, including customization. 
 

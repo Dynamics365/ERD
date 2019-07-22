@@ -100,7 +100,7 @@ public MaxWorkerResponse getEmployee()
 
 In AOT create new service and add recent created class to that Service, in operations node add `getEmployee` method, you will get something likes
 
-![](https://dynamics365.github.io/assets/Respone-in-AIF-custom-service-class-1.png)
+![]({{site.url}}/assets/imagesposts/Respone-in-AIF-custom-service-class-1.png)
 
 Then right click service > Add-ins > Register Service.
 

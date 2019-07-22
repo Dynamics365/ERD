@@ -10,4 +10,4 @@ tags: [fun]
 
 Just dont follow them, think your self
 
-![start the day](https://dynamics365.github.io/assets/start-the-day.png)
+![start the day]({{site.url}}/assets/imagesposts/start-the-day.png)

@@ -12,7 +12,7 @@ I have 2 AOS AX (maybe same in one server or different servers), but only one se
 
 easierly, please take a look the picture below
 
-![two_instances_SSRS_on_one_server_architechture](https://dynamics365.github.io/assets/two_instances_SSRS_on_one_server_architechture.jpg)
+![two_instances_SSRS_on_one_server_architechture]({{site.url}}/assets/imagesposts/two_instances_SSRS_on_one_server_architechture.jpg)
 
 *__Figure 1__: Two SSRS instance are running same server.*
 
@@ -28,23 +28,23 @@ Reporting service component uses **business connector** to connect to AX, and it
 1. After installed second instance into `C:\Program Files\Microsoft SQL Server\MSRS12.InstanceName\Reporting Services\ReportServer\bin`, we need to create one `Dynamics.AX.ReportConfiguration.axc` file by **AX configuration client** with second AOS information.
 
 
-![how-to-install-2-instances-ssrs-on-1-server-2](https://dynamics365.github.io/assets/how-to-install-2-instances-ssrs-on-1-server-2.jpg)
+![how-to-install-2-instances-ssrs-on-1-server-2]({{site.url}}/assets/imagesposts/how-to-install-2-instances-ssrs-on-1-server-2.jpg)
 
 
 2. open `MS Dyanmics AX Management Shell`, run command below:
 
 `Install-AXReportInstanceExtensions –ReportServerInstanceName [SSRSInstanceName] -Credential [DomainNameUserName]`
 
-![how-to-install-2-instances-ssrs-on-1-server-3](https://dynamics365.github.io/assets/how-to-install-2-instances-ssrs-on-1-server-3.jpg)
+![how-to-install-2-instances-ssrs-on-1-server-3]({{site.url}}/assets/imagesposts/how-to-install-2-instances-ssrs-on-1-server-3.jpg)
 
 
 3. goto `C:\Program Files\Microsoft SQL Server\MSRS12.SecondInstance\Reporting Services\ReportServer` fix `fileconfi` with value from `Execution` to `FullTrust`
 
-![how-to-install-2-instances-ssrs-on-1-server-4](https://dynamics365.github.io/assets/how-to-install-2-instances-ssrs-on-1-server-4.jpg)
+![how-to-install-2-instances-ssrs-on-1-server-4]({{site.url}}/assets/imagesposts/how-to-install-2-instances-ssrs-on-1-server-4.jpg)
 
 After this, remember restart reporting services.
 
-![how-to-install-2-instances-ssrs-on-1-server-6](https://dynamics365.github.io/assets/how-to-install-2-instances-ssrs-on-1-server-6.png)
+![how-to-install-2-instances-ssrs-on-1-server-6]({{site.url}}/assets/imagesposts/how-to-install-2-instances-ssrs-on-1-server-6.png)
 
 From now on, you can run 2 AX reporting instance in same server.
 
