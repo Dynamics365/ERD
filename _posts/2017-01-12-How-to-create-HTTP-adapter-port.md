@@ -20,7 +20,7 @@ So, my solution is creating HTTP adapter for Java, you can also use .NET system 
 
 * You need to make sure install web services component on Internet Information Services (IIS) and verify that the default website is working.
 
-![]({{site.url}}/assets/imagesposts/imagesposts/How-to-create-HTTP-adapter-port-1.png)
+![]({{site.url}}/assets/imagesposts/How-to-create-HTTP-adapter-port-1.png)
 
 * In AX, under System administrator > Services and AIF > Web sites, open from a create new record follow information
 
@@ -30,7 +30,7 @@ URL: `http://YourServerName/MicrosoftDynamicsAXAif60`
 
 * From now on, you can create AIF inbound port with **HTTP adapter**.
 
-![]({{site.url}}/assets/imagesposts/imagesposts/How-to-create-HTTP-adapter-port-2.png)
+![]({{site.url}}/assets/imagesposts/How-to-create-HTTP-adapter-port-2.png)
 
 After you've actived the services, that Port will deployed under `DynamicsAXAif60` folder in IIS.
 

@@ -9,7 +9,7 @@ tags: [xpp, numbersequence, programming]
 ---
 
 <figure class='center '>
-  <a href="{{site.url}}/assets/imagesposts/number-sequence-overview.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/number-sequence-overview.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/number-sequence-overview.png"><img src="{{site.url}}/assets/imagesposts/number-sequence-overview.png" alt=""></a>
 </figure>
 
 For this demo, I will create New module along with NumberSequence, about creating Number Sequence *without* module you also use same steps just leave some steps base on Design picture above.
@@ -167,7 +167,7 @@ Note This form can only be used for references that have a scope of DataArea. Th
 The data source of Parameters form likes picture below, you can also refer to `CustParameters` form for design.
 
 <figure class='center '>
-  <a href="{{site.url}}/assets/imagesposts/ContosoParameters.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/ContosoParameters.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/ContosoParameters.png"><img src="{{site.url}}/assets/imagesposts/ContosoParameters.png" alt=""></a>
 </figure>
 
 Code example for form methods:

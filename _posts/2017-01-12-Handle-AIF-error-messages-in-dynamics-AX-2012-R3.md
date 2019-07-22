@@ -26,13 +26,13 @@ catch (Exception ex)
 
 If it cause error, message would return like this
 
-![]({{site.url}}/assets/imagesposts/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-1.png)
+![]({{site.url}}/assets/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-1.png)
 
 <!-- more -->
 
 If you want to know more details, you have to go In Dynamics ax **AIF Exceptions form** then check
 
-![]({{site.url}}/assets/imagesposts/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-2.png)
+![]({{site.url}}/assets/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-2.png)
 
 It's quite hard for 3rd party developer, especially they don't have right to access AX server.
 
@@ -40,7 +40,7 @@ Anyway, we can get meaningful error message by doing below steps
 
 * Check that box in AIF inbound ports
 
-![]({{site.url}}/assets/imagesposts/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-3.png)
+![]({{site.url}}/assets/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-3.png)
 
 * Use `FaultException` class to get message
 
@@ -69,6 +69,6 @@ catch (System.ServiceModel.FaultException<ItemsRegistration.RegRef.AifFault> aif
 
 what we got
 
-![]({{site.url}}/assets/imagesposts/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-4.png)
+![]({{site.url}}/assets/imagesposts/Handle-AIF-error-messages-in-dynamics-AX-2012-R3-4.png)
 
 Thank you for reading.

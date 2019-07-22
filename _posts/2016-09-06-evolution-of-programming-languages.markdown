@@ -9,8 +9,8 @@ tags: [fun, programming]
 
 here is concept of the evolution
 <!--excerpt-->
-![Evolution of programming languages]({{site.url}}/assets/imagesposts/imagesposts/the-evolution-of-computer-programming-languages-infographic.jpg "ahihi")
+![Evolution of programming languages]({{site.url}}/assets/imagesposts/the-evolution-of-computer-programming-languages-infographic.jpg "ahihi")
 
 ### Summary
 
-![evolution_of_programming_languages-2]({{site.url}}/assets/imagesposts/imagesposts/evolution_of_programming_languages-2.png "ahaha")
+![evolution_of_programming_languages-2]({{site.url}}/assets/imagesposts/evolution_of_programming_languages-2.png "ahaha")

@@ -10,4 +10,4 @@ tags: [fun]
 
 Just dont follow them, think your self
 
-![start the day]({{site.url}}/assets/imagesposts/imagesposts/start-the-day.png)
+![start the day]({{site.url}}/assets/imagesposts/start-the-day.png)

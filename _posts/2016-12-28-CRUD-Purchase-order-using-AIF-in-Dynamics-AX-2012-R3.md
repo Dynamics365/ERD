@@ -15,20 +15,20 @@ I’m using AIF document service with `NETTCP` or `HTTP` Adapter to Create Purch
 ## Create Query 
 with three **datasouce** (`PurchTable, PurchLine, InventDim`) likes below
 
-![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-01.png)
+![]({{site.url}}/assets/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-01.png)
 
 > As best practice for Document service, name of query should be start with Axd* prefix.
 
 ## Using AIF Wizards
 In AX development environment, go to *Tools > Wizards > AIF document service wizards*
 
- ![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-02.png)
+ ![]({{site.url}}/assets/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-02.png)
 
 Choose recent created query and click **next**.
 
 ## Create Service operation and `AxBC class`
 
- ![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-03.png)
+ ![]({{site.url}}/assets/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-03.png)
 
 Click `next` and then `Generate`.
 
@@ -46,7 +46,7 @@ You will get service project in **Private** project
 
  •	In *Service contract customizations* fast tab click `Service operations`
 
-![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-4.png)
+![]({{site.url}}/assets/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-4.png)
 
 
 `Active` recent created Service  
@@ -58,7 +58,7 @@ After service is activated, you can get **WSDL URI** likes
 ` http://servername:port/DynamicsAx/Services/PurchaseOrder`
 
 Create console project and Add Service References, the code below
- ![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-05.png)
+ ![]({{site.url}}/assets/imagesposts/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3-05.png)
 
 In Class, I will write method to return list of `EnityKey` PurchId
 
