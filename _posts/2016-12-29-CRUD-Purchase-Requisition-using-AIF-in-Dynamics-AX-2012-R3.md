@@ -73,7 +73,7 @@ Base on this method, you could know how System get PurchReqId.
 
 Go to Inbound ports form to create new service with `NETTCP` adapter, choose service operations likes below:
 
-![]({{site.url}}/assets/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-1.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-1.png)
 
 
 Then `active` AIF inbound service
@@ -82,19 +82,19 @@ Then `active` AIF inbound service
 
 Open visual studio and create new console project.
 
-![]({{site.url}}/assets/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-2.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-2.png)
 
 Add service reference
 
 `http://DEV-ERP:8101/DynamicsAx/Services/MavPurchaseRequisition`
 
-![]({{site.url}}/assets/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-3.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-3.png)
 
-![]({{site.url}}/assets/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-4.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-4.png)
 
 This one just for demo, so I just create code base on required fields of AIF.
 
-![]({{site.url}}/assets/imagesposts/required_fields.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/required_fields.png)
 
 Here is the code in `main` method
 
@@ -160,7 +160,7 @@ catch (Exception e)
 
 Run it and check result in AX
 
-![]({{site.url}}/assets/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-5.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Purchase-Requisition-using-AIF-in-Dynamics-AX-2012-R3-5.png)
 
 Please prefer previous [post](https://dynamics365.github.io/ax2012/integration/CRUD-Purchase-order-using-AIF-in-Dynamics-AX-2012-R3/) for another operations
 

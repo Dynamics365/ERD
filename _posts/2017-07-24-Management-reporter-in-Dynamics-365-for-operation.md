@@ -30,7 +30,7 @@ The **22 default** reports that are included, default financial reports includin
 
 Here is the list
 <figure class='center '>
-  <a href="{{site.url}}/assets/Financial_reports.png"><img src="{{site.url}}/assets/imagesposts/Financial_reports.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/Financial_reports.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/Financial_reports.png" alt=""></a>
 </figure>
 
 <!-- more -->
@@ -85,23 +85,23 @@ Generates the reports that are created and queued by the Management Reporter cli
 We are currently at Financial reports screen as picture below
 
 <figure class='center '>
-  <a href="{{site.url}}/assets/2017-04-10_11h56_15.png"><img src="{{site.url}}/assets/imagesposts/2017-04-10_11h56_15.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/2017-04-10_11h56_15.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/2017-04-10_11h56_15.png" alt=""></a>
 </figure>
 
 As you can see there's nowhere on the screen or anything that indicates that there's the Management Reporter available, but if we click this `edit` button and entering your email account and password. After you log in, it will open the **Report Definitions** Management Reporter window for us. 
 
 <figure class='center '>
-  <a href="{{site.url}}/assets/2017-04-10_11h57_20.png"><img src="{{site.url}}/assets/imagesposts/2017-04-10_11h57_20.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/2017-04-10_11h57_20.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/2017-04-10_11h57_20.png" alt=""></a>
 </figure>
 
 On the left, here we have a list of all the same reports that we were looking at in AX.
 Let's look at `the income statement - default report`, So I have a couple parameter fields we need to change before we can generate our report. Please prefer below picture
 <figure class='center '>
-  <a href="{{site.url}}/assets/2017-04-10_12h08_53.png"><img src="{{site.url}}/assets/imagesposts/2017-04-10_12h08_53.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/2017-04-10_12h08_53.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/2017-04-10_12h08_53.png" alt=""></a>
 </figure>
 After we click **generate** button, Financial will be generated on current web browser
 <figure class='center '>
-  <a href="{{site.url}}/assets/2017-04-10_12h11_29.png"><img src="{{site.url}}/assets/imagesposts/2017-04-10_12h11_29.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/2017-04-10_12h11_29.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/2017-04-10_12h11_29.png" alt=""></a>
 </figure>
 we can see here by the report date.  So, on our income statement, we have all the usual fields here.  We have total revenues, gross profit, total operating experiences, net operating income and net income. That all is pretty standard and it all looks good.
 
@@ -109,7 +109,7 @@ we can see here by the report date.  So, on our income statement, we have all th
 Row, Column, Tree, Report definitions work essentially the same as they did in **Dynamics AX 2012**. I can still use row, column, and tree definitions with multiple reports, and options for the Report definition tabs.
 
 <figure class='center '>
-  <a href="{{site.url}}/assets/2017-04-10_14h57_51.png"><img src="{{site.url}}/assets/imagesposts/2017-04-10_14h57_51.png" alt=""></a>
+  <a href="{{site.url}}/assets/imagesposts/2017-04-10_14h57_51.png"><img src="{{site.url}}/assets/imagesposts/imagesposts/2017-04-10_14h57_51.png" alt=""></a>
 </figure>
 
 Here are some of the functions that are not available in Financial Reporting for Dynamics 365 for Operations:

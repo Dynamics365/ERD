@@ -79,7 +79,7 @@ we have 4 steps
 
 2. After services creation, open visual studio then creates new Console project and add service References for that, you will get somethings like pic below:
 
-   ![]({{site.url}}/assets/imagesposts/CRUD-Items,-products,-products-master-dimension,-variants-using-AIF-in-Dynamics-AX-2012-R3-01.png)
+   ![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Items,-products,-products-master-dimension,-variants-using-AIF-in-Dynamics-AX-2012-R3-01.png)
 
 3. Using C#.Net to consume service
 
@@ -416,7 +416,7 @@ Just for example, in `main` I only create Distinct product and release it, but y
 
     4. Try to run it and here is a result
 
-![]({{site.url}}/assets/imagesposts/CRUD-Items,-products,-products-master-dimension,-variants-using-AIF-in-Dynamics-AX-2012-R3-02.png)
+![]({{site.url}}/assets/imagesposts/imagesposts/CRUD-Items,-products,-products-master-dimension,-variants-using-AIF-in-Dynamics-AX-2012-R3-02.png)
 
 Thank you for reading and feel free to give me a question.
 
