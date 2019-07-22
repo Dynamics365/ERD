@@ -134,7 +134,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: newnuxulu
+    shortname: "newnuxulu"
     # the Disqus shortname for the site
 
   ## Gitalk
