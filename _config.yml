@@ -67,10 +67,10 @@ repository_tree: master
 ## => Paths
 ##############################
 paths:
-  root    : https://nuxulu.com/ # title link url, "/" (default)
-  home    : https://nuxulu.com/nats # home layout url, "/" (default)
-  archive : https://nuxulu.com/nats/archive.html # "/archive.html" (default)
-  rss     : https://nuxulu.com/nats/feed.xml # "/feed.xml" (default)
+  root    : # title link url, "/" (default)
+  home    : # home layout url, "/" (default)
+  archive : # "/archive.html" (default)
+  rss     : # "/feed.xml" (default)
 
 
 ## => Post
